@@ -1,0 +1,78 @@
+[
+    {
+        "id": 0,
+        "name": "Saffron (Male One)",
+        "parentIds": {
+            "m": -1,
+            "f": -1
+        },
+        "generation": 1,
+        "genes": {
+            "sex": false,
+            "coatCol": {
+                "phenotype": 1,
+                "genotype": [
+                    1,
+                    0
+                ]
+            },
+            "orange": {
+                "phenotype": 1,
+                "genotype": [
+                    1
+                ]
+            }
+        }
+    },
+    {
+        "id": 1,
+        "name": "Stripes (Male Two)",
+        "parentIds": {
+            "m": -1,
+            "f": -1
+        },
+        "generation": 1,
+        "genes": {
+            "sex": false,
+            "coatCol": {
+                "phenotype": 0,
+                "genotype": [
+                    0,
+                    0
+                ]
+            },
+            "orange": {
+                "phenotype": 0,
+                "genotype": [
+                    0
+                ]
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Mittens (Female One)",
+        "parentIds": {
+            "m": -1,
+            "f": -1
+        },
+        "generation": 1,
+        "genes": {
+            "sex": true,
+            "coatCol": {
+                "phenotype": 2,
+                "genotype": [
+                    2,
+                    0
+                ]
+            },
+            "orange": {
+                "phenotype": 1,
+                "genotype": [
+                    1,
+                    1
+                ]
+            }
+        }
+    }
+]
